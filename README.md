@@ -6,6 +6,7 @@ Hopefully I can pay attention to the class and avoid falling asleep since it is 
 
 ![My Image](eggnurse.jpg)  <!-- Link to the uploaded image -->
 
+
 ## GitHub Profile
 
 You can view my personalized GitHub profile [here, insert link to your github profile]
