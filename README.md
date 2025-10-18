@@ -8,5 +8,5 @@ Hopefully I can pay attention to the class and avoid falling asleep since it is 
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here](https://github.com/tamagoyaki03/tamagoyaki03/blob/main/README.md)
+You can view my GitHub profile [here](https://github.com/tamagoyaki03/tamagoyaki03/blob/main/README.md)
 
